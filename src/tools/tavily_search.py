@@ -28,7 +28,7 @@ class TavilySearchTool:
         Args:
             query: The search query
             max_results: Maximum number of results to return
-            search_depth: How deep to search ("basic", "moderate", or "comprehensive")
+            search_depth: How deep to search ("basic", "advanced")
 
         Returns:
             Dictionary containing search results and related information
